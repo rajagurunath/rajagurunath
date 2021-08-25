@@ -46,20 +46,10 @@ end to end. Trying to learn something new each day about software data products.
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
 
-```
 <!--END_SECTION:waka-->
 
 - 💬 Ask me about : Machine learning, Python developer,Platforms
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-<!-- 🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days -->
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
