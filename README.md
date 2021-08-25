@@ -27,10 +27,15 @@ Here are some ideas to get you started:
 
 <br />
 
-hi, i'm Gurunath, Love to explore different programming languages and frameworks and Distribuited Systems.
+hi, i'm Gurunath, Love to explore different programming languages,frameworks and Distribuited Systems.
 
 I have worked as Python Developer, Machine learning Engineer, Data Engineer, platform Engineer (current role). Loves to build the Data product 
 end to end. Trying to learn something new each day about software data products. 
+
+**Jack of all trades** 
+Learning python to take advantage of data science tools,frameworks etc
+Learning scala to take advantage of big data, JVM tools etc 
+Learning go,rust for kubernetes and system programing. 
 
 
 **languages and tools:**  
@@ -42,6 +47,7 @@ end to end. Trying to learn something new each day about software data products.
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/401-4019613_air-flow-png-apache-airflow-logo-png-transparent.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"></code>
 <code><img height="20" src="https://mljar.com/images/machine-learning/catboost.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/123-1234691_kubernetes-logo-transparent-hd-png-download.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
