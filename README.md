@@ -34,9 +34,11 @@ end to end. Trying to learn something new each day about software data products.
 
 **Jack of all trades** 
 
-Learning python to take advantage of data science tools,frameworks etc
-Learning scala to take advantage of big data, JVM tools etc 
-Learning go,rust for kubernetes and system programing. 
+- Learning python to take advantage of data science tools,frameworks etc
+
+- Learning scala to take advantage of big data, JVM tools etc 
+
+- Learning go,rust for kubernetes and system programing. 
 
 
 **languages and tools:**  
@@ -59,6 +61,10 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 - 💬 Ask me about : Machine learning, Python developer,Platforms
+
+**Blogs**
+- https://medium.com/@gurunathrajagopal/what-happens-when-machines-are-curious-to-learn-9aed6805bf36
+- https://rajagurunath.github.io/#/
 
 
 📈 my github stats
