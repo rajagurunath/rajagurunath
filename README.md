@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rajagurunath/rajagurunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://twitter.com/rajaguru95">
+  <img align="left" alt="Rajagurunath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rajagurunath/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=rajagurunath.rajagurunath)
+
+<br />
+
+hi, i'm Gurunath, Love to explore different programming languages and frameworks and Distribuited Systems.
+
+I have worked as Python Developer, Machine learning Engineer, Data Engineer, platform Engineer (current role). Loves to build the Data product 
+end to end. Trying to learn something new each day about software data products. 
+
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://dask.readthedocs.io/en/latest/_images/dask_horizontal.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/401-4019613_air-flow-png-apache-airflow-logo-png-transparent.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"></code>
+<code><img height="20" src="https://mljar.com/images/machine-learning/catboost.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
+
+- 💬 Ask me about : Machine learning, Python developer,Platforms
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+<!-- 🏆  7,936 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 663 tasks so far           
+⏳  Longest streak is 10 days -->
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajagurunath&show_icons=true&theme=gotham" alt="rajagurunath" />
+
+
+
