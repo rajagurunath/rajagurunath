@@ -33,6 +33,7 @@ I have worked as Python Developer, Machine learning Engineer, Data Engineer, pla
 end to end. Trying to learn something new each day about software data products. 
 
 **Jack of all trades** 
+
 Learning python to take advantage of data science tools,frameworks etc
 Learning scala to take advantage of big data, JVM tools etc 
 Learning go,rust for kubernetes and system programing. 
