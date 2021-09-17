@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/rajagurunath/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="gurunathrajagopal@gmail.com">
+<a href="mailto:gurunathrajagopal@gmail.com">
   <img align="left" alt="Rajagurunath | gmail" width="24px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />
 </a>
 
