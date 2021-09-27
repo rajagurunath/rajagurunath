@@ -66,7 +66,7 @@ Scala    26 mins         ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-- 💬 Ask me about : Machine learning, Python developer,Platforms
+- 💬 Ask me about : Machine learning, Python developement, Platforms
 
 **Blogs**
 - https://medium.com/@gurunathrajagopal/what-happens-when-machines-are-curious-to-learn-9aed6805bf36
