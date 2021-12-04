@@ -59,7 +59,7 @@ end to end. Trying to learn something new each day about software data products.
 <!--START_SECTION:waka-->
 ```text
 Python     1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Scala      1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
+Scala      1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.55 % 
 Markdown   50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 Groovy     45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 INI        26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
