@@ -58,7 +58,7 @@ end to end. Trying to learn something new each day about software data products.
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-YAML    1 min           ████████████████████████░   95.80 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
