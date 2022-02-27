@@ -57,9 +57,11 @@ end to end. Trying to learn something new each day about software data products.
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 - 💬 Ask me about : Machine learning, Python developement, Platforms
