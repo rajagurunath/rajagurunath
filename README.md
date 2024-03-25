@@ -15,32 +15,29 @@ Here are some ideas to get you started:
 -->
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/rajaguru95">
-  <img align="left" alt="Rajagurunath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rajagurunath/">
-  <img align="left" alt="Rajagurunath's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:gurunathrajagopal@gmail.com">
-  <img align="left" alt="Rajagurunath | gmail" width="24px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=rajagurunath.rajagurunath)
 
 <br />
 
-hi, i'm Gurunath, Love to explore different programming languages,frameworks and Distribuited Systems.
+**Linkedin**: `https://www.linkedin.com/in/rajagurunath`
 
-I have worked as Python Developer, Machine learning Engineer, Data Engineer, platform Engineer (current role). Loves to build the Data product 
+**Gmail**: `mailto:gurunathrajagopal@gmail.com`
+
+**Twitter**: `https://twitter.com/rajaguru95`
+
+
+HI, I'm Gurunath, I Love to explore different programming languages, frameworks, and Distributed Systems.
+
+I have worked as a Python Developer, Machine learning Engineer, Data Engineer, and Platform Engineer (current role). Loves to build the Data product 
 end to end. Trying to learn something new each day about software data products. 
 
 **Jack of all trades** 
 
-- Learning python to take advantage of data science tools,frameworks etc
+- Learning Python to take advantage of data science tools, frameworks etc
 
-- Learning scala to take advantage of big data, JVM tools etc 
+- Learning Scala to take advantage of big data, JVM tools, etc 
 
-- Learning go,rust for kubernetes and system programing. 
+- Learning Go, Rust for Kubernetes, and system programming. 
 
 
 **languages and tools:**  
@@ -55,16 +52,8 @@ end to end. Trying to learn something new each day about software data products.
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/123-1234691_kubernetes-logo-transparent-hd-png-download.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-- 💬 Ask me about : Machine learning, Python developement, Platforms
+- 💬 Ask me about Machine learning, Python development, Platforms
 
 **Blogs**
 - https://medium.com/@gurunathrajagopal/what-happens-when-machines-are-curious-to-learn-9aed6805bf36
