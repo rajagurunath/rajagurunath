@@ -137,13 +137,6 @@ Hands-on studies of Preferred Networks' **PLaMo** model family — measured on a
 
 More deep dives on [**guruengineering.substack.com**](https://guruengineering.substack.com/) ↗
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajagurunath&show_icons=true&hide_border=true&bg_color=0b0c10&title_color=ff6a2b&text_color=b6b9c4&icon_color=5fd3c8" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajagurunath&layout=compact&hide_border=true&bg_color=0b0c10&title_color=ff6a2b&text_color=b6b9c4" alt="top languages" />
-</p>
-
 ---
 
 <p align="center">
