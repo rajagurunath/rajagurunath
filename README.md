@@ -23,9 +23,40 @@
 - ⚡ **Serve &amp; fine-tune** open LLMs (Qwen, GLM, DeepSeek, LLaMA) on **vLLM + Aibrix** for low-latency enterprise inference (`io-intelligence`)
 - 🧠 **KV-cache optimization** &amp; distributed cache offloading to cut memory footprint and latency at scale
 - 🔀 **Disaggregated prefill / decode** cluster deployments improving TTFT and token throughput
-- 🌐 Integrated `io-intelligence` as a provider on **OpenRouter** &amp; **LiteLLM**, expanding ecosystem reach
+- 🌐 Integrated `io-intelligence` as a provider on **OpenRouter**, expanding ecosystem reach
 - 🤖 Shipped a **ChatGPT-style** unified interface (web search, image/video gen, RAG) and an **MCP server** that lets agents spin up &amp; manage GPU clusters programmatically
 - 🪙 Pioneered a **block-rewards system** for DePIN GPU suppliers — A/B-tested distribution formulas behind the **IO-COIN launch on Solana**, driving multi-million-dollar savings
+
+### 🗺️ The arc
+
+Eight years across the stack — data → backend → platform → **inference**. The last two years have been concentrated on LLM inference, built on a foundation of large-scale data &amp; platform engineering.
+
+```text
+                Prodapt Merc    Nike    C·bee   IO.net
+                '17–19  '20     '21–22  '22–25  '24–now
+Data Eng          █       █       ▓       █       ▒
+Backend / API     ▓       ▒       █       █       █
+Platform          ░       ▒       █       ▓       █
+ML / MLOps        █       ▓       ░       ▓       █
+Inference         ·       ·       ·       ▒       █    ◀ last 2 years
+                █ primary   ▓ heavy   ▒ moderate   ░ light   · none
+```
+
+**Track record**
+
+- **2024 → now · [IO.net](https://io.net)** — LLM **inference** infra, AI agents &amp; DePIN reward systems for a decentralized GPU cloud
+- **2022 → 2025 · Chargebee** — **Senior Data Engineer**: built the enterprise **lakehouse &amp; streaming platform** moving 1–5B records/day (benchmarked to 100B), plus usage-based billing pipelines and a docs RAG chatbot
+- **2021 → 2022 · Nike** — Platform team: managed big-data service on **AWS EMR + Spark**, org-wide job orchestration on EKS
+- **2020 → 2021 · Mercedes-Benz** — analytics platform end to end: ingestion → interactive dashboards → PDF reporting
+- **2017 → 2020 · Prodapt** — Airflow ETL, streaming + batch systems, anomaly detection &amp; time-series forecasting in production
+
+### 🧪 Recently built
+
+Products I've designed &amp; shipped end to end — from idea to deployed AI system:
+
+- **[PitchPerfect](https://pitchperfect-rupeezy.vercel.app/)** — Voice AI for partner programs. An agent that auto-dials inbound partner leads and qualifies them in **9 Indian languages**, handles objections, and hands scored, summarised conversations back to the RM team.
+- **[YunoFlow](https://yunoflow.vercel.app/)** — Agentic infrastructure for payments. A full-lifecycle platform to **build → test → fine-tune → deploy → evolve** multi-agent workflows on a real runtime, with tracing, cost and throughput metrics.
+- **[Freshet](https://rajagurunath.github.io/freshet/)** — One shared memory for every AI coding session. Captures **Claude Code, Codex &amp; Kilo Code** sessions locally, then curate, redact &amp; peer-review the good ones into a searchable, company-wide memory (AICP open protocol).
 
 ### 🧭 What I work on
 
@@ -97,8 +128,6 @@
 
 Open-source contributions &amp; published packages across distributed computing and LLM tooling:
 
-- **[LiteLLM](https://github.com/BerriAI/litellm)** — added `io-intelligence` as an LLM inference provider
-- **[SkyPilot](https://github.com/skypilot-org/skypilot)** — added IO Cloud as a compute provider
 - **[dask-sql](https://github.com/dask-contrib/dask-sql)** — core maintainer
 - **[Delta Lake](https://github.com/delta-io/delta)** — bug fixes &amp; CI/CD GitHub Actions pipelines
 - **[lakehouse-sharing](https://github.com/rajagurunath/lakehouse-sharing)** — a table-format-agnostic data sharing framework
