@@ -29,18 +29,11 @@
 
 ### 🗺️ The arc
 
-Eight years across the stack — data → backend → platform → **inference**. The last two years have been concentrated on LLM inference, built on a foundation of large-scale data &amp; platform engineering.
+**9+ years** across the stack — data → backend → platform → **inference** — with the last two years concentrated on LLM inference, built on a foundation of large-scale data &amp; platform engineering.
 
-```text
-                Prodapt Merc    Nike    C·bee   IO.net
-                '17–19  '20     '21–22  '22–25  '24–now
-Data Eng          █       █       ▓       █       ▒
-Backend / API     ▓       ▒       █       █       █
-Platform          ░       ▒       █       ▓       █
-ML / MLOps        █       ▓       ░       ▓       █
-Inference         ·       ·       ·       ▒       █    ◀ last 2 years
-                █ primary   ▓ heavy   ▒ moderate   ░ light   · none
-```
+<p align="center">
+  <img src="./assets/career-timeline.png" alt="Career timeline: 9+ years across data engineering, platform and LLM inference" width="100%">
+</p>
 
 **Track record**
 

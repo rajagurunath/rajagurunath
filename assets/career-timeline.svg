@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1116"/>
+      <stop offset="1" stop-color="#0a0b0e"/>
+    </linearGradient>
+    <linearGradient id="gData" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4b90ff"/><stop offset="1" stop-color="#2f6fe0"/>
+    </linearGradient>
+    <linearGradient id="gML" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#43e3d3"/><stop offset="1" stop-color="#17b3a6"/>
+    </linearGradient>
+    <linearGradient id="gPlat" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b49bff"/><stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="gInf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a4c"/><stop offset="1" stop-color="#ff5a1f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="500" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="499" rx="18" fill="none" stroke="#23262f"/>
+
+  <!-- Title -->
+  <text x="40" y="52" fill="#ece9e1" font-size="30" font-weight="700" letter-spacing="-0.5">9+ years across the stack</text>
+  <text x="42" y="80" font-size="15" fill="#9aa0ad">Data
+    <tspan fill="#6b7280"> →</tspan> Backend
+    <tspan fill="#6b7280"> →</tspan> Platform
+    <tspan fill="#6b7280"> →</tspan> <tspan fill="#ff9152" font-weight="600">Inference</tspan>
+  </text>
+
+  <!-- Inference-focus band -->
+  <rect x="897" y="140" width="253" height="280" fill="#ff6a2b" opacity="0.07"/>
+  <line x1="897" y1="140" x2="897" y2="420" stroke="#ff6a2b" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 4"/>
+  <text x="1023" y="126" text-anchor="middle" fill="#ff9152" font-size="11.5" font-weight="700" letter-spacing="1.6">INFERENCE FOCUS · LAST 2 YRS</text>
+
+  <!-- Year gridlines + labels -->
+  <g stroke="#20232b" stroke-width="1">
+    <line x1="190" y1="140" x2="190" y2="418"/>
+    <line x1="291" y1="140" x2="291" y2="418"/>
+    <line x1="392" y1="140" x2="392" y2="418"/>
+    <line x1="493" y1="140" x2="493" y2="418"/>
+    <line x1="594" y1="140" x2="594" y2="418"/>
+    <line x1="695" y1="140" x2="695" y2="418"/>
+    <line x1="796" y1="140" x2="796" y2="418"/>
+    <line x1="897" y1="140" x2="897" y2="418"/>
+    <line x1="998" y1="140" x2="998" y2="418"/>
+    <line x1="1099" y1="140" x2="1099" y2="418"/>
+  </g>
+  <g fill="#7b8090" font-size="12" text-anchor="middle">
+    <text x="190" y="436">2017</text>
+    <text x="291" y="436">2018</text>
+    <text x="392" y="436">2019</text>
+    <text x="493" y="436">2020</text>
+    <text x="594" y="436">2021</text>
+    <text x="695" y="436">2022</text>
+    <text x="796" y="436">2023</text>
+    <text x="897" y="436">2024</text>
+    <text x="998" y="436">2025</text>
+    <text x="1099" y="436">2026</text>
+  </g>
+  <text x="1152" y="436" text-anchor="end" fill="#ff9152" font-size="12" font-weight="600">now</text>
+
+  <!-- Row: IO.net -->
+  <text x="176" y="173" text-anchor="end" fill="#ece9e1" font-size="15" font-weight="700">IO.net</text>
+  <text x="176" y="190" text-anchor="end" fill="#7b8090" font-size="11.5">2024 – now</text>
+  <rect x="907" y="150" width="243" height="38" rx="8" fill="url(#gInf)"/>
+  <text x="923" y="174" fill="#1a0a02" font-size="13" font-weight="600">LLM inference · vLLM / Aibrix</text>
+
+  <!-- Row: Chargebee -->
+  <text x="176" y="229" text-anchor="end" fill="#ece9e1" font-size="15" font-weight="700">Chargebee</text>
+  <text x="176" y="246" text-anchor="end" fill="#7b8090" font-size="11.5">2022 – 2025</text>
+  <rect x="735" y="206" width="293" height="38" rx="8" fill="url(#gData)"/>
+  <text x="751" y="230" fill="#06101f" font-size="12.5" font-weight="600">Senior Data Engineer · lakehouse &amp; streaming</text>
+
+  <!-- Row: Nike -->
+  <text x="176" y="285" text-anchor="end" fill="#ece9e1" font-size="15" font-weight="700">Nike</text>
+  <text x="176" y="302" text-anchor="end" fill="#7b8090" font-size="11.5">2021 – 2022</text>
+  <rect x="619" y="262" width="117" height="38" rx="8" fill="url(#gPlat)"/>
+  <text x="748" y="286" fill="#c9cdd6" font-size="12.5">Platform · EMR + Spark</text>
+
+  <!-- Row: Mercedes-Benz -->
+  <text x="176" y="341" text-anchor="end" fill="#ece9e1" font-size="15" font-weight="700">Mercedes-Benz</text>
+  <text x="176" y="358" text-anchor="end" fill="#7b8090" font-size="11.5">2020 – 2021</text>
+  <rect x="544" y="318" width="76" height="38" rx="8" fill="url(#gData)"/>
+  <text x="632" y="342" fill="#c9cdd6" font-size="12.5">Analytics platform</text>
+
+  <!-- Row: Prodapt -->
+  <text x="176" y="397" text-anchor="end" fill="#ece9e1" font-size="15" font-weight="700">Prodapt</text>
+  <text x="176" y="414" text-anchor="end" fill="#7b8090" font-size="11.5">2017 – 2020</text>
+  <rect x="230" y="374" width="293" height="38" rx="8" fill="url(#gML)"/>
+  <text x="246" y="398" fill="#04120f" font-size="12.5" font-weight="600">ML &amp; Data · Airflow ETL · forecasting</text>
+
+  <!-- Legend -->
+  <g font-size="12.5" fill="#c9cdd6">
+    <rect x="190" y="461" width="14" height="14" rx="3" fill="url(#gData)"/>
+    <text x="212" y="472">Data Engineering</text>
+    <rect x="330" y="461" width="14" height="14" rx="3" fill="url(#gML)"/>
+    <text x="352" y="472">ML / MLOps</text>
+    <rect x="452" y="461" width="14" height="14" rx="3" fill="url(#gPlat)"/>
+    <text x="474" y="472">Platform</text>
+    <rect x="552" y="461" width="14" height="14" rx="3" fill="url(#gInf)"/>
+    <text x="574" y="472">Inference</text>
+  </g>
+  <text x="1152" y="472" text-anchor="end" fill="#6b7280" font-size="11.5">bar length = tenure · color = primary discipline</text>
+</svg>
